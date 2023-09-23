@@ -16,3 +16,17 @@
 * Besides developing 3D programs, I am also passionate about creating supporting libraries and tools.
 
 * Join my projects and let's explore the world of 3D programming together!
+
+
+
+  <summary><h2><b>📚 My stack</b></h2></summary>
+  <p>
+    <h3>Langs</h3>
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,py&perline=7" />
+    <h3>Frameworks / Tools</h3>
+    <img src="https://skillicons.dev/icons?i=githubactions,docker,git,cmake&perline=7" />
+    <h3>Software</h3>
+    <img src="https://skillicons.dev/icons?i=visualstudio,idea,qt,blender&perline=7" />
+    <br>
+  </p>
+
