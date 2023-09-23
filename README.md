@@ -1,4 +1,6 @@
-### Hi there 👋
+<p align="center">
+ <img width="500" src="src/Aritile.png" alt="png"/>
+</p>
 
 ### About me
 
