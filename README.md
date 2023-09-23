@@ -33,8 +33,8 @@
 
   <summary><h2><b>⭐GitHub stats</b></h2></summary>
   <p>
-   <img src="https://github-readme-stats.vercel.app/api?username=Antil8&count_private=true&show_icons=true&theme=vue&hide_border=true"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antil8&theme=vue&layout=compact&hide_border=true" /> 
-   <img src="https://metrics.lecoq.io/antil8" />
+   <img src="https://github-readme-stats.vercel.app/api?username=Aritile&count_private=true&show_icons=true&theme=vue&hide_border=true"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aritile&theme=vue&layout=compact&hide_border=true" /> 
+   <img src="https://metrics.lecoq.io/Aritile" />
   </p>
 
   
