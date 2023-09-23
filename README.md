@@ -1,8 +1,8 @@
 <p align="center">
- <img width="500" src="src/Aritile.png" alt="png"/>
+ <img width="512" src="src/Aritile.png" alt="png"/>
 </p>
 
-### About me
+## About me
 
 * Hi, welcome to my GitHub profile! I am a software developer whose passion lies in creating immersive programs in 3D. 
 * Every commit to my repositories is a step towards creating virtual worlds that are filled with interesting and unique visual solutions.
@@ -20,7 +20,7 @@
 * Join my projects and let's explore the world of 3D programming together!
 
 
-
+<p align="left">
   <summary><h2><b>📚 My stack</b></h2></summary>
   <p>
     <h3>Langs</h3>
@@ -31,7 +31,7 @@
     <img src="https://skillicons.dev/icons?i=visualstudio,idea,qt,blender&perline=7" />
     <br>
   </p>
-
+</p>
 
   <summary><h2><b>⭐GitHub stats</b></h2></summary>
   <p>
